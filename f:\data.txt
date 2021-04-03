@@ -1,0 +1,5 @@
+Mofay 100 white
+Lucy 12 blue
+Mike 18 green
+Cici 19 yellow
+Jone 22 orange
